@@ -1,5 +1,8 @@
-# 💫 About Me:
-🔭 I am currently studying at Jember State Polytechnic.<br>👯 I’m looking to collaborate on Berrusaha Team.<br>🌱 An informatics Engineering Student.<br>⚡ loves playing games and watching anime.<br> 
+Hi there 👋
+I'm Side ID (20 y.o) ! 😎
+
+An informatics Engineering Student. 👌
+I'd like to do project that has relation to anime. 👻
 
 
 ## 🌐 Socials:
