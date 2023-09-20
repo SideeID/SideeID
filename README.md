@@ -26,6 +26,8 @@ I'd like to do project that has relation to anime. 👻
 * [Akame ga Kill!](https://anilist.co/anime/20613)
 * [Guilty Crown](https://anilist.co/anime/10793)
 * [DARLING in the FRANXX](https://anilist.co/anime/99423)
+* [Clannad: After Story](https://anilist.co/anime/4181)
+* [Plastic Memories](https://anilist.co/anime/20872)
 * [Violet Evergarden](https://anilist.co/anime/21827)
 * [Violet Evergarden: Eternity and the Auto Memory Doll](https://anilist.co/anime/109190)
 * [Violet Evergarden: the Movie](https://anilist.co/anime/103047)
@@ -36,12 +38,10 @@ I'd like to do project that has relation to anime. 👻
 * [CYBERPUNK: EDGERUNNERS](https://anilist.co/anime/120377)
 * [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922)
 * [Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train](https://anilist.co/anime/112151)
-* [Plastic Memories](https://anilist.co/anime/20872)
 * [Sword Art Online: Alicization](https://anilist.co/anime/100182)
 * [Hunter x Hunter](https://anilist.co/anime/11061)
 * [Your lie in April](https://anilist.co/anime/20665)
 * [Chainsaw Man](https://anilist.co/anime/127230)
-* [Clannad: After Story](https://anilist.co/anime/4181)
 </details>
 
 <details>
