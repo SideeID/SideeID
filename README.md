@@ -44,6 +44,12 @@ I'd like to do project that has relation to anime. 👻
 * [Clannad: After Story](https://anilist.co/anime/4181)
 </details>
 
+<details>
+<summary>❓</summary>
+<h4 align="center"><a href="https://github.com/SideeID"></a></h4>
+<img src="https://github.com/george-chou/george-chou/assets/20459298/7aa69819-64eb-4095-a773-ef0905519c94" /img>
+</details>
+
 Feel free to contact me :yum:
 <br><br>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/718825127202127933) 
