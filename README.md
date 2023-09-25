@@ -17,7 +17,8 @@ I'd like to do project that has relation to anime. 👻
 <details>
 <summary>📊 GitHub Stats</summary>
 <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=SideeID">
-<img src="https://github-profile-trophy.vercel.app/?username=SideeID">
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=SideeID"> -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=SideeID&theme=gruvbox)](https://github.com/SideeID)
 </details>
 
 <details>
