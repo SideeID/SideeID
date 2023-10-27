@@ -54,7 +54,6 @@ I'd like to do project that has relation to anime. 👻
 Feel free to contact me :yum:
 <br><br>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/718825127202127933) 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285157900849) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/side__id)
 [![Email](https://img.shields.io/badge/Email-sandipratama164026%40gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandipratama164026@gmail.com)
 
