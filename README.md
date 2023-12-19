@@ -55,5 +55,6 @@ Feel free to contact me :yum:
 <br><br>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/718825127202127933) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/side__id)
-[![Email](https://img.shields.io/badge/Email-sandipratama164026%40gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandipratama164026@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dimas--fajar--katon--prayogo-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimas-fajar-katon-prayogo/)
+
 
