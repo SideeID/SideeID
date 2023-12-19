@@ -55,7 +55,8 @@ Feel free to contact me :yum:
 <br><br>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/718825127202127933) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/side__id)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dimas%20Fajar%20Katon%20Prayogo-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimas-fajar-katon-prayogo/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimas-fajar-katon-prayogo/)
+
 
 
 
