@@ -26,6 +26,10 @@ I'd like to do project that has relation to anime. 👻
 
 <!--START_SECTION:waka-->
 
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <details>
