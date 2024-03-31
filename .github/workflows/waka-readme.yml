@@ -17,7 +17,10 @@ jobs:
           REPOSITORY: SideeID/SideeID
           SHOW_TITLE: true
           TIME_RANGE: all_time
-          LANG_COUNT: 5
+          LANG_COUNT: 6
           SHOW_TIME: true
           SHOW_TOTAL: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          STOP_AT_OTHER: true
+          SHOW_MASKED_TIME: false
+          
