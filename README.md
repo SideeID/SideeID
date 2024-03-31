@@ -31,7 +31,7 @@ From: 29 March 2024 - To: 30 March 2024
 
 Total Time: 56 mins
 
-JavaScript   56 mins         █████████████████████████   100.00 %
+JavaScript   56 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
 ```
 
 <!--END_SECTION:waka-->
