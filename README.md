@@ -14,7 +14,7 @@ I'd like to do project that has relation to anime. 👻
 
 <!--START_SECTION:waka-->
 
-```txt
+```javascript
 From: 29 March 2024 - To: 02 April 2024
 
 Total Time: 7 hrs 8 mins
