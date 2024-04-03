@@ -21,7 +21,7 @@ jobs:
           SHOW_TIME: true
           SHOW_TOTAL: true
           # BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          BLOCKS: ▰▱
+          BLOCKS: ▱▰
           STOP_AT_OTHER: true
           SHOW_MASKED_TIME: false
           
