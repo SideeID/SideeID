@@ -1,25 +1,13 @@
-Hi there 👋
-
-I'm Side ID (20 y.o) ! 😎 
+# Hi there 👋 I'm Side ID (20 y.o) ! 😎 
 
 I am a management informatics student. 👌 <br/> 
 I'd like to do project that has relation to anime. 👻 
 
-:page_with_curl: I'm currently learning:
-<br><br>
-[![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![ReactJS](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Langchain](https://img.shields.io/badge/langchain-%230072AC.svg?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.org/)
+## :page_with_curl: I'm currently learning
+[![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,express,laravel,postgres,mongodb&perline=10)](https://skillicons.dev)
 
 
-# ⚽ Activity
+## ⚽ Activity
 [![Discord Presence](https://lanyard.kyrie25.me/api/718825127202127933?bg=000000&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/718825127202127933) 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31bwevlkbo3gcxy2ovtt4bknyjw4&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=000000&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31bwevlkbo3gcxy2ovtt4bknyjw4&redirect=true) 
 <br/>
