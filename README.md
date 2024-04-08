@@ -66,7 +66,7 @@ JSON             38 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱�
 <img src="https://github.com/george-chou/george-chou/assets/20459298/7aa69819-64eb-4095-a773-ef0905519c94" /img>
 </details>
 
-Feel free to contact me :yum:
+## Feel free to contact me :yum:
 <br><br>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/718825127202127933) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/side__id)
