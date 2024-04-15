@@ -4,7 +4,7 @@ I am a management informatics student. 👌 <br/>
 I'd like to do project that has relation to anime. 👻 
 
 ## :page_with_curl: I'm currently learning
-[![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,express,laravel,postgres,mongodb&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,express,laravel,flask,postgres,mongodb&perline=10)](https://skillicons.dev)
 
 
 ## ⚽ Activity
