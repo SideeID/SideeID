@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Side ID (20 y.o) ! 😎 
+# Hi there 👋 I'm @SideID (20 y.o) ! 😎 
 
 I am a management informatics student. 👌 <br/> 
 I'd like to do project that has relation to anime. 👻 
