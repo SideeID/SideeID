@@ -25,4 +25,5 @@ jobs:
           STOP_AT_OTHER: true
           SHOW_MASKED_TIME: false
           CODE_LANG: javascript
+          IGNORED_LANGUAGES: html
           
