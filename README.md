@@ -9,7 +9,7 @@ I'd like to do project that has relation to anime. 👻
 
 ## ⚽ Activity
 [![Discord Presence](https://lanyard.kyrie25.me/api/718825127202127933?bg=000000&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/718825127202127933) 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31bwevlkbo3gcxy2ovtt4bknyjw4&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=000000&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31bwevlkbo3gcxy2ovtt4bknyjw4&redirect=true) 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bwevlkbo3gcxy2ovtt4bknyjw4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31bwevlkbo3gcxy2ovtt4bknyjw4&redirect=true)
 <br/>
 
 <!--START_SECTION:waka-->
