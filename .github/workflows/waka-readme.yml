@@ -24,7 +24,7 @@ jobs:
           BLOCKS: ▱▰
           STOP_AT_OTHER: true
           SHOW_MASKED_TIME: false
-          IGNORED_LANGUAGES: HTML CSS PHP Python
+          IGNORED_LANGUAGES: HTML CSS
           CODE_LANG: javascript
           
           
