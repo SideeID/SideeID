@@ -19,6 +19,7 @@ From: 29 March 2024 - To: 15 October 2024
 
 Total Time: 570 hrs 48 mins
 
+PHP              199 hrs 37 mins ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   34.74 %
 JavaScript       183 hrs         ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   31.85 %
 Blade Template   94 hrs 22 mins  ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   16.42 %
 TypeScript       21 hrs 5 mins   ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.67 %
