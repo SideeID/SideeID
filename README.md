@@ -63,7 +63,7 @@ JSON             13 hrs 19 mins  ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱�
 <details>
 <summary>❓</summary>
 <h4 align="center"><a href="https://github.com/SideeID"></a></h4>
-<img src="https://github.com/george-chou/george-chou/assets/20459298/7aa69819-64eb-4095-a773-ef0905519c94" /img>
+<img src="https://github.com/SideeID/kuruto/blob/main/img/hertaa_github.gif" /img>
 </details>
 
 ## Feel free to contact me :yum:
