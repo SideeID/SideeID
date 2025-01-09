@@ -15,7 +15,7 @@ I'd like to do project that has relation to anime. 👻
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 29 March 2024 - To: 08 January 2025
+From: 29 March 2024 - To: 09 January 2025
 
 Total Time: 806 hrs 43 mins
 
