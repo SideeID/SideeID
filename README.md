@@ -15,9 +15,9 @@ I'd like to do project that has relation to anime. 👻
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 29 March 2024 - To: 28 February 2025
+From: 29 March 2024 - To: 01 March 2025
 
-Total Time: 989 hrs 55 mins
+Total Time: 989 hrs 56 mins
 
 PHP                        291 hrs 1 min   ▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   29.15 %
 JavaScript                 202 hrs 8 mins  ▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   20.25 %
