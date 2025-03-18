@@ -20,6 +20,8 @@ jobs:
           LANG_COUNT: 6
           SHOW_TIME: true
           SHOW_TOTAL: true
+          SHOW_EDITORS: true
+          SHOW_SHORT_INFO: false
           # BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           BLOCKS: ▱▰
           STOP_AT_OTHER: true
