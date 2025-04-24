@@ -1,21 +1,39 @@
-# Hi there 👋 I'm @SideID (20 y.o) ! 😎 
+<div align="center">
+  
+  # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hey there, I'm @SideeID ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-I am a management informatics student. 👌 <br/> 
-I'd like to do project that has relation to anime. 👻 
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=53F7F7&center=true&vCenter=true&width=435&lines=Management+Informatics+Student;Anime+Enthusiast;Full+Stack+Developer)](https://git.io/typing-svg)
+  
+  <p>I'm a 20 y.o Management Informatics student who loves coding and anime! 👻</p>
+</div>
 
-## :page_with_curl: I'm currently learning
-[![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,express,laravel,flask,nextjs,postgres,mongodb,figma&perline=10)](https://skillicons.dev)
+<p align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
 
+## 🛠️ Tech Stack
 
-## ⚽ Activity
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31weij6lbcfpqhbqegfo5pkdlhjq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31weij6lbcfpqhbqegfo5pkdlhjq&redirect=true)
-<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,astro,nuxtjs,svelte,docker,bun,deno,ts,vim,ubuntu,&perline=5&theme=dark" />
+  </a>
+</p>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SideeID&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</p>
+
+## 🎵 Currently Vibing To
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31weij6lbcfpqhbqegfo5pkdlhjq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31weij6lbcfpqhbqegfo5pkdlhjq&redirect=true)
+
+## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-
 ```javascript
 From: 29 March 2024 - To: 23 April 2025
-
 Total Time: 1,096 hrs 40 mins
 
 PHP                        317 hrs 8 mins  ▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   28.64 %
@@ -25,51 +43,51 @@ Blade Template             199 hrs 43 mins ▰▰▰▰▰▱▱▱▱▱▱▱�
 JSON                       25 hrs 57 mins  ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.34 %
 Bash                       22 hrs 27 mins  ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.03 %
 ```
-
 <!--END_SECTION:waka-->
 
-<details>
-<summary>📊 GitHub Stats</summary>
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=SideeID">
-<img src="https://github-profile-trophy.vercel.app/?username=SideeID">
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SideeID&theme=tokyonight"/>
+</p>
 
-</details>
+## 📺 My Anime List
 
 <details>
-<summary>:tv: List Favorites Anime</summary>
+  <summary>Click to expand my favorite anime list</summary>
   
-* [Akame ga Kill!](https://anilist.co/anime/20613)
-* [Guilty Crown](https://anilist.co/anime/10793)
-* [DARLING in the FRANXX](https://anilist.co/anime/99423)
-* [Clannad: After Story](https://anilist.co/anime/4181)
-* [Plastic Memories](https://anilist.co/anime/20872)
-* [Violet Evergarden](https://anilist.co/anime/21827)
-* [Violet Evergarden: Eternity and the Auto Memory Doll](https://anilist.co/anime/109190)
-* [Violet Evergarden: the Movie](https://anilist.co/anime/103047)
-* [JUJUTSU KAISEN](https://anilist.co/anime/113415)
-* [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064)
-* [Classroom of the Elite](https://anilist.co/anime/98659)
-* [Classroom of the Elite Season 2](https://anilist.co/anime/145545)
-* [CYBERPUNK: EDGERUNNERS](https://anilist.co/anime/120377)
-* [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922)
-* [Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train](https://anilist.co/anime/112151)
-* [Sword Art Online: Alicization](https://anilist.co/anime/100182)
-* [Hunter x Hunter](https://anilist.co/anime/11061)
-* [Your lie in April](https://anilist.co/anime/20665)
-* [Chainsaw Man](https://anilist.co/anime/127230)
+  * [Akame ga Kill!](https://anilist.co/anime/20613)
+  * [Guilty Crown](https://anilist.co/anime/10793)
+  * [DARLING in the FRANXX](https://anilist.co/anime/99423)
+  * [Clannad: After Story](https://anilist.co/anime/4181)
+  * [Plastic Memories](https://anilist.co/anime/20872)
+  * [Violet Evergarden](https://anilist.co/anime/21827)
+  * [Violet Evergarden: Eternity and the Auto Memory Doll](https://anilist.co/anime/109190)
+  * [Violet Evergarden: the Movie](https://anilist.co/anime/103047)
+  * [JUJUTSU KAISEN](https://anilist.co/anime/113415)
+  * [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064)
+  * [Classroom of the Elite](https://anilist.co/anime/98659)
+  * [Classroom of the Elite Season 2](https://anilist.co/anime/145545)
+  * [CYBERPUNK: EDGERUNNERS](https://anilist.co/anime/120377)
+  * [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922)
+  * [Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train](https://anilist.co/anime/112151)
+  * [Sword Art Online: Alicization](https://anilist.co/anime/100182)
+  * [Hunter x Hunter](https://anilist.co/anime/11061)
+  * [Your lie in April](https://anilist.co/anime/20665)
+  * [Chainsaw Man](https://anilist.co/anime/127230)
 </details>
 
 <details>
-<summary>❓</summary>
-<h4 align="center"><a href="https://github.com/SideeID"></a></h4>
-<img src="https://github.com/SideeID/kuruto/blob/main/img/hertaa_github.gif" /img>
+  <summary>📊 GitHub Stats & Trophies</summary>
+  <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=SideeID">
+  <img src="https://github-profile-trophy.vercel.app/?username=SideeID&theme=darkhub&row=1&column=7">
 </details>
 
-## Feel free to contact me :yum:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/718825127202127933) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/side__id)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimas-fajar-katon-prayogo/)
+## 📫 Connect With Me
 
-
-
-
+<div align="center">
+  
+  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/718825127202127933) 
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/side__id)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimas-fajar-katon-prayogo/)
+  
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</div>
