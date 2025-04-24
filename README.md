@@ -43,8 +43,6 @@ Bash                       22 hrs 27 mins  ▰▱▱▱▱▱▱▱▱▱▱▱�
 ```
 <!--END_SECTION:waka-->
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SideeID&theme=tokyonight"/>
-
 ## 📺 My Anime List
 
 <details>
@@ -73,7 +71,7 @@ Bash                       22 hrs 27 mins  ▰▱▱▱▱▱▱▱▱▱▱▱�
 
 <details>
   <summary>📊 GitHub Stats & Trophies</summary>
-  <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=SideeID">
+  <img src="https://bad-apple-github-readme.vercel.app/api?count_private=true&show_icons=true&include_all_commits=true&show_bg=1&theme=tokyonight&username=SideeID">
   <img src="https://github-profile-trophy.vercel.app/?username=SideeID&theme=darkhub&row=1&column=7">
 </details>
 
