@@ -4,7 +4,7 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=53F7F7&center=true&vCenter=true&width=435&lines=Management+Informatics+Student;Anime+Enthusiast;Full+Stack+Developer)](https://git.io/typing-svg)
   
-  <p>I'm a 20 y.o Management Informatics student who loves coding and anime! 👻</p>
+  <p>I'm a 21 y.o Management Informatics student who loves coding and anime! 👻</p>
 </div>
 
 <p align="center">
