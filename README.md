@@ -14,18 +14,22 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> My Digital Toolbox
 
 <div align='center'>
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,astro,nuxtjs,svelte,laravel,docker,bun,deno,vim,ubuntu,nginx" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,astro,nuxtjs,svelte,laravel,docker,bun,deno,vim,ubuntu,nginx" />
 </div>
 
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=SideeID&theme=radical&hide_border=true&background=0D1117" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=SideeID&theme=radical&hide_border=true&background=0D1117" />
 </div>
 <br>
 
 ## 🎵 Currently Vibing To
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31weij6lbcfpqhbqegfo5pkdlhjq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31weij6lbcfpqhbqegfo5pkdlhjq&redirect=true)
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31weij6lbcfpqhbqegfo5pkdlhjq&redirect=true">
+    <img width="90%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31weij6lbcfpqhbqegfo5pkdlhjq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" />
+  </a>
+</div>
 
 ## ⏱️ [Weekly Coding Stats](https://wakatime.com/@SideID)
 
