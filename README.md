@@ -11,13 +11,17 @@
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
 
-## 🛠️ Tech Stack
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> My Digital Toolbox
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,astro,nuxtjs,svelte,docker,bun,deno,ts,vim,ubuntu,&perline=5&theme=dark" />
-  </a>
-</p>
+<div align='center'>
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,astro,nuxtjs,svelte,docker,bun,deno,ts,vim,ubuntu,nginx" />
+</div>
+
+
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=SideeID&theme=radical&hide_border=true&background=0D1117" />
+</div>
+<br>
 
 ## 🎵 Currently Vibing To
 
