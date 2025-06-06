@@ -21,7 +21,7 @@
 
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=SideeID&theme=radical&hide_border=true&background=0D1117" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=SideeID&theme=radical&hide_border=true&background=0D1117" />
 </div>
 <br>
 
@@ -29,7 +29,7 @@
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31weij6lbcfpqhbqegfo5pkdlhjq&redirect=true">
-    <img width="90%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31weij6lbcfpqhbqegfo5pkdlhjq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" />
+    <img width="80%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31weij6lbcfpqhbqegfo5pkdlhjq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" />
   </a>
 </div>
 
