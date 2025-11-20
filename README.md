@@ -18,11 +18,6 @@
 <div align='center'>
   <img src="https://skillicons.dev/icons?i=ts,js,nextjs,astro,nuxtjs,svelte,laravel,docker,bun,deno,vim,ubuntu,nginx" />
 </div>
-
-
-<div align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=SideeID&theme=radical&hide_border=true&background=0D1117" />
-</div>
 <br>
 
 ## 🎵 Currently Vibing To
