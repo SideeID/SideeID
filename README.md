@@ -35,14 +35,14 @@
 ```javascript
 From: 29 March 2024 - To: 02 January 2026
 
-Total Time: 1,650 hrs 39 mins
+Total Time: 1,652 hrs 33 mins
 
-TypeScript                 485 hrs 57 mins ▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   29.14 %
-PHP                        402 hrs 30 mins ▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   24.14 %
-Blade Template             282 hrs 56 mins ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   16.97 %
-JavaScript                 221 hrs 55 mins ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   13.31 %
-Markdown                   39 hrs 40 mins  ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.38 %
-JSON                       39 hrs 28 mins  ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.37 %
+TypeScript                 486 hrs 58 mins ▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   29.17 %
+PHP                        402 hrs 45 mins ▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   24.12 %
+Blade Template             283 hrs 25 mins ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   16.98 %
+JavaScript                 221 hrs 55 mins ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   13.29 %
+Markdown                   39 hrs 42 mins  ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.38 %
+JSON                       39 hrs 29 mins  ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.37 %
 ```
 
 <!--END_SECTION:waka-->
