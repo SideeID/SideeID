@@ -74,11 +74,10 @@ Markdown                   55 hrs 59 mins        ▰▱▱▱▱▱▱▱▱▱�
   * [Chainsaw Man](https://anilist.co/anime/127230)
 </details>
 
-<details>
-  <summary>📊 GitHub Stats & Trophies</summary>
-  <img src="https://bad-apple-github-readme.vercel.app/api?count_private=true&show_icons=true&include_all_commits=true&show_bg=1&theme=tokyonight&username=SideeID">
-  <img src="https://github-profile-trophy.vercel.app/?username=SideeID&theme=darkhub&row=1&column=7">
-</details>
+# <details>
+  # <summary>Playlist</summary>
+	# https://open.spotify.com/playlist/67F2wlBgMlJXG1fwwkqM2I?si=8a77a8ccbaf4431f
+# </details>
 
 ## 📫 Connect With Me
 
