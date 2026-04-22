@@ -74,10 +74,10 @@ Markdown                   55 hrs 59 mins        ▰▱▱▱▱▱▱▱▱▱�
   * [Chainsaw Man](https://anilist.co/anime/127230)
 </details>
 
-# <details>
-  # <summary>Playlist</summary>
-	# https://open.spotify.com/playlist/67F2wlBgMlJXG1fwwkqM2I?si=8a77a8ccbaf4431f
-# </details>
+<!-- <details>
+<summary>Playlist</summary>
+	https://open.spotify.com/playlist/67F2wlBgMlJXG1fwwkqM2I?si=8a77a8ccbaf4431f
+</details> -->
 
 ## 📫 Connect With Me
 
